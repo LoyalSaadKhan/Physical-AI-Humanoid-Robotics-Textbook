@@ -112,7 +112,7 @@ const config = {
                 href: 'https://instagram.com/loyalsaadkhan',
               },
               {
-                label: 'LinkenIN',
+                label: 'LinkenDIN',
                 href: 'https://www.linkedin.com/in/loyalsaadkhan/',
               },
               {
